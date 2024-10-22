@@ -14,8 +14,8 @@ As with the last example, this one needs to be flexible in the middle, with item
 ![gif](./desired-outcome.gif)
 
 ### Self Check
-- Everything is centered vertically inside the header.
-- There is 8px space between everything and the edge of the header.
-- Items are arranged horizontally as seen in the outcome image.
-- There is 16px between each item on both sides of the header.
-- flex is used to arrange everything.
+- Everything is centered vertically inside the header. - `Yes, using align-items: center;`
+- There is 8px space between everything and the edge of the header. - `Yes, using padding: 8px;`
+- Items are arranged horizontally as seen in the outcome image. - `Yes, using Display: flex;`
+- There is 16px between each item on both sides of the header. - `Yes, using gap: 16px;`
+- flex is used to arrange everything. - `Yes`
